@@ -1,2 +1,14 @@
-# CS50-Python
-Curso CS50 de python 
+# CS50 Python - Mi Journey
+
+Curso: CS50's Introduction to Programming with Python
+
+**Progreso:** Week 0 ✅ | Week 1 ⏳
+
+## Week 0 - Functions, Variables
+- Indoor Voice ✅
+- Playback Speed ✅
+- Making Faces ✅
+- Einstein ✅
+- Tip Calculator ✅
+
+Fecha inicio: 5 Oct 2025
