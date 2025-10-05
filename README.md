@@ -1,6 +1,6 @@
 # CS50 Python - Mi Journey
 
-Curso: CS50's Introduction to Programming with Python
+Course: CS50's Introduction to Programming with Python
 
 **Progreso:** Week 0 ✅ | Week 1 ⏳
 
@@ -11,4 +11,4 @@ Curso: CS50's Introduction to Programming with Python
 - Einstein ✅
 - Tip Calculator ✅
 
-Fecha inicio: 5 Oct 2025
+Started day: 5 Oct 2025
